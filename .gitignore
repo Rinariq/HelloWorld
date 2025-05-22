@@ -1,5 +1,9 @@
 .idea/
 *.iml
+
+# Исключаем все папки out
+out/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
